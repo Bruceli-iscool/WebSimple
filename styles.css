@@ -1,0 +1,19 @@
+/* Dark theme  Remove other themes to use*/
+title {
+    background-color: grey;
+    color: white;
+}
+body {
+    background-color: black;
+    color: white;
+}
+/* Bright theme in comments. remove tthe comments to use 
+title {
+    background-color: beige;
+    color: black;
+}
+body {
+    background-color: white;
+}
+*/
+    
