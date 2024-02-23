@@ -5,3 +5,4 @@ function foo() {
 }
 // logs something into the console
 console.log(foo())
+// this is a demonstration. You can remove this code when you actually make your website.
